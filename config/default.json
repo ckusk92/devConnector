@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ckusk92:cocokusk@devconnector.7ywwo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "615c72008d7c6d2c1a382c88",
+  "githubSecret": "c3734e5238d2159884114cb473badf849a310462"
+}
